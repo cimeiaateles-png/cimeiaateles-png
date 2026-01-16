@@ -14,3 +14,5 @@ Construir uma base sólida no desenvolvimento de software através da prática d
 
 ---
 *Fique à vontade para explorar meus repositórios. Se algum código for útil para você, considere deixar uma estrela como reconhecimento.*
+
+<img src="https://github-readme-stats.vercel.app/api?username=cimeiaateles-png&show_icons=true&theme=radical" alt="Estatísticas da Cimeia" />
